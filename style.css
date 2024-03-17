@@ -1,0 +1,85 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#banner{
+  text-align: center;
+  background-color: goldenrod;
+}
+
+#appreciateSchools{
+  margin-top: 50px;
+  margin-left: 690px;
+  margin-right: 600px;
+  border: dotted darkcyan 5px;
+  absolute 
+}
+
+
+#appreContainer{
+  width: 600px;
+  margin-left: 100px;
+}
+
+#nav{
+  background-color: #000080 ;
+ 
+}
+
+#navText{
+   color: goldenrod;
+}
+
+#gif{
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+#b1{
+  background-color:#000080 ;
+}
+
+#select{
+  width: 600px;
+  position: absolute;
+  left: 650px;
+  bottom: 100px;
+}
+
+iframe{
+  position: absolute;
+  top: 250px;
+  left: 150px;
+}
+
+#exam{
+  color: white;
+  width: 500px;
+  position: absolute;
+}
+
+#teachPic{
+  position: absolute;
+  left: 800px;
+}
+
+#ramosPic{
+  position: absolute;
+  left: 650px;
+}
+
+#ramosPic1{
+  position: absolute;
+  left: 1000px;
+}
+
+#ples{
+  color: white;
+}
+
+#grati{
+  position: absolute;
+  left: 600px;
+  top: 420px;
+}
